@@ -1,0 +1,88 @@
+#include <nusys.h>
+
+beginseg
+	name "code"
+	flags BOOT OBJECT
+	entry nuBoot
+	address NU_SPEC_BOOT_ADDR
+	stack NU_SPEC_BOOT_STACK
+	include "codesegment.o"
+	include "$(ROOT)\\usr\\lib\\PR\\rspboot.o"
+	include "$(ROOT)\\usr\\lib\\PR\\aspMain.o"
+	include "$(ROOT)\\usr\\lib\\PR\\gspF3DEX2.fifo.o"
+endseg
+
+beginseg
+	name "UER_1_M"
+	flags RAW
+	include "C:\\Users\\Besitzer\\Documents\\UltraED_N64\\Projects\\SwampHero64\\Library\\Build\\325e8005-ea8f-4639-9431-e34aabb0e9b7.sos"
+endseg
+
+beginseg
+	name "UER_1_T"
+	flags RAW
+	include "C:\\Users\\Besitzer\\Documents\\UltraED_N64\\Projects\\SwampHero64\\Library\\Build\\fc55a85b-f451-479a-9a03-8dde6ba0b3ed.png"
+endseg
+
+beginseg
+	name "UER_2_T"
+	flags RAW
+	include "C:\\Users\\Besitzer\\Documents\\UltraED_N64\\Projects\\SwampHero64\\Library\\Build\\00f27393-e690-423c-957c-a12c0fb76d53.png"
+endseg
+
+beginseg
+	name "UER_3_M"
+	flags RAW
+	include "C:\\Users\\Besitzer\\Documents\\UltraED_N64\\Projects\\SwampHero64\\Library\\Build\\4bb9e0fc-514c-4b6c-9810-90fd51e3c1d0.sos"
+endseg
+
+beginseg
+	name "UER_4_M"
+	flags RAW
+	include "C:\\Users\\Besitzer\\Documents\\UltraED_N64\\Projects\\SwampHero64\\Library\\Build\\51f4a853-cfd0-46e0-81e0-50304629bf95.sos"
+endseg
+
+beginseg
+	name "UER_4_T"
+	flags RAW
+	include "C:\\Users\\Besitzer\\Documents\\UltraED_N64\\Projects\\SwampHero64\\Library\\Build\\725f557d-6f6a-4290-b1dd-19ed7bfce088.png"
+endseg
+
+beginseg
+	name "UER_5_T"
+	flags RAW
+	include "C:\\Users\\Besitzer\\Documents\\UltraED_N64\\Projects\\SwampHero64\\Library\\Build\\f4fc47a6-5850-4c42-bf48-1c073351287b.png"
+endseg
+
+beginseg
+	name "UER_6_T"
+	flags RAW
+	include "C:\\Users\\Besitzer\\Documents\\UltraED_N64\\Projects\\SwampHero64\\Library\\Build\\ec73d982-c84f-4360-9ccd-7d54e8f33f44.png"
+endseg
+
+beginseg
+	name "UER_7_M"
+	flags RAW
+	include "C:\\Users\\Besitzer\\Documents\\UltraED_N64\\Projects\\SwampHero64\\Library\\Build\\835ca0cb-c227-4e01-92be-95d9f7251cd2.sos"
+endseg
+
+beginseg
+	name "UER_7_T"
+	flags RAW
+	include "C:\\Users\\Besitzer\\Documents\\UltraED_N64\\Projects\\SwampHero64\\Library\\Build\\1d671327-3101-423b-b378-b040a242ae66.png"
+endseg
+
+beginwave
+	name "main"
+	include "code"
+	include "UER_1_M"
+	include "UER_1_T"
+	include "UER_2_T"
+	include "UER_3_M"
+	include "UER_4_M"
+	include "UER_4_T"
+	include "UER_5_T"
+	include "UER_6_T"
+	include "UER_7_M"
+	include "UER_7_T"
+endwave

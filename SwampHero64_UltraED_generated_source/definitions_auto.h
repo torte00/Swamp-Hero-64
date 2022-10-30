@@ -1,0 +1,1 @@
+#define _UER_VIDEO_MODE OS_VI_NTSC_LAN1
