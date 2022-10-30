@@ -7,4 +7,8 @@ I used the "tank" example from "deadcast2" which is part of the UltraEd engine V
 I learned a lot by reading the N64brew-discort channel entries. Thank you for all people who organized the yearly N64brew jam. I like the entries from past years very much and reading about it on the N64squid site. When I first saw this site I had the wish to be a part of a N64 homebrew developing project. I had moral support from my family and testing support from my kids.
 The game isn’t very long or complex, but I'm proud of having produced this little software for one of my favorite consoles.
 
+About the game:
+---------------
+In Swamp Hero 64 you are slimon, a slime that protect his swamp from perky ghosts. Try to spit slime balls to he fast escaping ghosts, to avoid that they are comming again at another time - when you reset the game :-). You can control slimon with the analog stick and shoot the slime balls with the A-button. If you want you can slime arround to have a look on the small area. I hope you enjoy this little game.
+
 Thank you to all of the N64brew community.
