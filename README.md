@@ -9,6 +9,6 @@ The game isn’t very long or complex, but I'm proud of having produced this lit
 
 About the game:
 ---------------
-In Swamp Hero 64 you are slimon, a slime that protect his swamp from perky ghosts. Try to spit slime balls to he fast escaping ghosts, to avoid that they are comming again at another time - when you reset the game :-). You can control slimon with the analog stick and shoot the slime balls with the A-button. If you want you can slime arround to have a look on the small area. I hope you enjoy this little game.
+In Swamp Hero 64 you are slimon, a slime that protect his swamp from perky ghosts. Try to spit slime balls to he fast escaping ghosts, to avoid that they are coming again at another time - when you reset the game :-). You can control slimon with the analog stick and shoot the slime balls with the A-button. If you want you can slime around to have a look on the small area. I hope you enjoy this little game.
 
 Thank you to all of the N64brew community.
