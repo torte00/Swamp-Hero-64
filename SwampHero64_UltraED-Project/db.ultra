@@ -1,0 +1,188 @@
+{
+ "assets": [
+  {
+   "id": "ef6c5ca0-ebe7-4817-9941-4363ae435686",
+   "lastModified": 133066863426983249,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "Dreierpolygon.stl",
+   "type": 1
+  },
+  {
+   "id": "94c2f3a5-b5cf-4dc0-8b2b-47b9e5b9fe61",
+   "lastModified": 133106647635274030,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "Ghost-final.stl",
+   "type": 1
+  },
+  {
+   "id": "f389e34b-84b7-4922-99c1-33ecdc886356",
+   "lastModified": 133066863983586851,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "Hausform_flach.stl",
+   "type": 1
+  },
+  {
+   "id": "2a8aceef-f1bc-4ddc-966f-dc4076d3a1cd",
+   "lastModified": 133066864506598597,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "Hausform_spitz.stl",
+   "type": 1
+  },
+  {
+   "id": "6c472656-c1d8-4f66-b9ce-fa36cb73d21f",
+   "lastModified": 133066859489490031,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "Quader.stl",
+   "type": 1
+  },
+  {
+   "id": "cbf02de3-0f6b-429f-8a70-8aede87d5934",
+   "lastModified": 133108453315863823,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "Strassenlaterne.stl",
+   "type": 1
+  },
+  {
+   "id": "969c4865-4559-413f-a583-bdaaa32a2493",
+   "lastModified": 133072179244642986,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "Vase.stl",
+   "type": 1
+  },
+  {
+   "id": "0c57120d-6d1e-4d49-84c7-fe781657d858",
+   "lastModified": 133066862371913557,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "Zylinder.stl",
+   "type": 1
+  },
+  {
+   "id": "0c00b2e8-fbb0-43c0-9f73-8c9dd6457b1c",
+   "lastModified": 133066037845382218,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "plane.dae",
+   "type": 1
+  },
+  {
+   "id": "bdc04f94-21ef-4639-acdf-63b5610c5777",
+   "lastModified": 133066037845387341,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "pumpkin.dae",
+   "type": 1
+  },
+  {
+   "id": "99e324f4-fc99-4db2-b0d3-9fcd2248011d",
+   "lastModified": 133066037845387341,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "soylent.3ds",
+   "type": 1
+  },
+  {
+   "id": "ec73d982-c84f-4360-9ccd-7d54e8f33f44",
+   "lastModified": 133107716566609543,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "Bricks.png",
+   "type": 2
+  },
+  {
+   "id": "4c39e2f7-0e00-42f8-b55e-a7e5eaab5146",
+   "lastModified": 133108564230576368,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "dach_braun.png",
+   "type": 2
+  },
+  {
+   "id": "902f12b2-b477-43c9-9239-b33b75425e8e",
+   "lastModified": 133108598656522561,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "dach_hellbraun.png",
+   "type": 2
+  },
+  {
+   "id": "61b2a998-9e51-4ec2-b2ad-63f532a4e9b7",
+   "lastModified": 133108563657359718,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "dach_schwarz.png",
+   "type": 2
+  },
+  {
+   "id": "f4fc47a6-5850-4c42-bf48-1c073351287b",
+   "lastModified": 133078290246632866,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "dark_gras.png",
+   "type": 2
+  },
+  {
+   "id": "388f05aa-a11f-41c5-8fbb-6e21c187fef7",
+   "lastModified": 133108564908801826,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "gemauert_grau.png",
+   "type": 2
+  },
+  {
+   "id": "725f557d-6f6a-4290-b1dd-19ed7bfce088",
+   "lastModified": 133108565795254608,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "holz.png",
+   "type": 2
+  },
+  {
+   "id": "659ec4d5-eff2-4182-b2e1-bda1c57e5c63",
+   "lastModified": 133107699471089195,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "lacke - Kopie.png",
+   "type": 2
+  },
+  {
+   "id": "1d671327-3101-423b-b378-b040a242ae66",
+   "lastModified": 133107728208463039,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "lacke.png",
+   "type": 2
+  },
+  {
+   "id": "fc55a85b-f451-479a-9a03-8dde6ba0b3ed",
+   "lastModified": 133066037845387341,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "plane.png",
+   "type": 2
+  },
+  {
+   "id": "175af6b9-1640-48ff-9b7a-729700c730da",
+   "lastModified": 133066037845387341,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "pumpkin.png",
+   "type": 2
+  },
+  {
+   "id": "408254e4-ca3d-4be2-a9af-a26a283475a0",
+   "lastModified": 133066873323219366,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "slimy - Kopie.png",
+   "type": 2
+  },
+  {
+   "id": "00f27393-e690-423c-957c-a12c0fb76d53",
+   "lastModified": 133107737464387731,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "slimy.png",
+   "type": 2
+  },
+  {
+   "id": "8155ef1f-aa79-4452-b109-8cf704d6fe68",
+   "lastModified": 133066037845387341,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "soylent.png",
+   "type": 2
+  },
+  {
+   "id": "1db6601f-6301-47d7-91dd-3e9dce2511b1",
+   "lastModified": 133108563180716877,
+   "purgeId": "31a420a4-3da7-40a6-b2f1-0e078d688e9d",
+   "sourcePath": "wand.png",
+   "type": 2
+  }
+ ],
+ "name": "tank",
+ "version": 1
+}
